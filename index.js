@@ -5,7 +5,6 @@ const NUM_POINTS = 1200
 const VERT_SIZE = 4 * (4 + 3)
 
 const regl = reglInit({
-  canvas: this.canvas,
   extensions: ["OES_standard_derivatives"]
 })
 
