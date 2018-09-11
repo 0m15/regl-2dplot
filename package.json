@@ -1,0 +1,15 @@
+{
+  "name": "regl-2dplot",
+  "version": "0.0.1",
+  "description": "a simple 2d plot made with regl/glsl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omis",
+  "license": "ISC",
+  "dependencies": {
+    "mouse-change": "^1.4.0",
+    "regl": "^1.3.7"
+  }
+}
